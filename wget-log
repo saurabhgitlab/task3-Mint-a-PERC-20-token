@@ -1,0 +1,11 @@
+--2024-08-12 19:37:18--  https://raw.githubusercontent.com/dante4rt/swisstronik-perc-20/main/perc20.sh
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.111.133, 185.199.108.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12332 (12K) [text/plain]
+Saving to: ‘perc20.sh’
+
+     0K .......... ..                                         100% 41.1M=0s
+
+2024-08-12 19:37:18 (41.1 MB/s) - ‘perc20.sh’ saved [12332/12332]
+
